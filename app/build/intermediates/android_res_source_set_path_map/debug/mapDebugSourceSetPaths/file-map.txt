@@ -1,0 +1,8 @@
+my.edu.tarc.greeting.app-pngs-0 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\build\generated\res\pngs\debug
+my.edu.tarc.greeting.app-updated_navigation_xml-1 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\build\generated\updated_navigation_xml\debug
+my.edu.tarc.greeting.app-packageDebugResources-2 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+my.edu.tarc.greeting.app-packageDebugResources-3 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+my.edu.tarc.greeting.app-debug-4 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\build\intermediates\merged_res\debug\mergeDebugResources
+my.edu.tarc.greeting.app-debug-5 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\src\debug\res
+my.edu.tarc.greeting.app-main-6 C:\Users\Jia Seng\AndroidStudioProjects\GreetingCard\app\src\main\res
+gradleHome-0 C:\Users\Jia Seng\.gradle
